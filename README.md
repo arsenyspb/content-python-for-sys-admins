@@ -1,10 +1,8 @@
-# Python Scripting for System Administrators
+# This is a dump.
 
-The scripts written throughout the Python Scripting for Systems Administrators
-course videos and labs. This repository also includes the helper script to
-easily create a database server to follow along with the final section of the
-course.
+Here are my random tidbits from MOOCs on python in one place
 
-* [Helper files](/helpers)
-* [Course Scripts](/scripts)
-* [Final Project (pgbackup)](/pgbackup)
+Some handy things.
+
+Some not.
+
